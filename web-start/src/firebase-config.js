@@ -7,7 +7,13 @@
  * 4. Copy the config object snippet, then add it here.
  */
 const config = {
-  /* TODO: ADD YOUR FIREBASE CONFIGURATION OBJECT HERE */
+  apiKey: "AIzaSyBIJ_vw2oiB1vdWdE3tBkuJ7zIR2QmLwN4",
+  authDomain: "friendlyeats-cb467.firebaseapp.com",
+  projectId: "friendlyeats-cb467",
+  storageBucket: "friendlyeats-cb467.appspot.com",
+  messagingSenderId: "1099081411657",
+  appId: "1:1099081411657:web:310357bcd40a9fc4276398",
+  measurementId: "G-24YZHQVMS1"
 };
 
 export function getFirebaseConfig() {
